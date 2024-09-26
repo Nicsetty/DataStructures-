@@ -38,7 +38,5 @@ This repository contains implementations of classic graph algorithms in C, speci
 ## Contributions
 Feel free to fork the repository and submit pull requests for any improvements or new features!
 
-## License
-This project is licensed under the MIT License.
 
 
